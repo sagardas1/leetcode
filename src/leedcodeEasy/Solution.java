@@ -1,20 +1,20 @@
 package leedcodeEasy;
 class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        int a[]=new int[2];
-        int   count=0;
-        for(int i=0;i<nums.length;i++){
-            for(int j=0;j<nums.length;j++){
-                if(i!=j){
-
-                    if(nums[i]+nums[j]==target){
-                        a[count]=i;
-                        a[count+1]=j;
-                        return a;
-                    }
-                }
+    public static String removeOccurrences(String s, String part) {
+        while(s.length()!=0){
+            int len=s.length();
+            s=s.replaceFirst(part,"");
+            int k=s.length();
+            if(len==k){
+                return s;
             }
+
         }
-        return a;
+        return s;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(removeOccurrences("aabababa","aba"));
+
     }
 }
