@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0010a3f-0c23-4ec8-ab15-40ad9ddc474e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leedcodeEasy/FindFirstRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leedcodeEasy/LastDestination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leedcodeEasy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leedcodeEasy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leedcodeEasy/LastDestination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leedcodeEasy/LastDestination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leedcodeEasy/NumberReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leedcodeEasy/NumberReversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +36,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.NumberReversal">
+    <configuration name="NumberReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leedcodeEasy.NumberReversal" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leedcodeEasy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leedcodeEasy.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leedcodeEasy.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
@@ -53,7 +65,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.NumberReversal" />
+        <item itemvalue="Application.leedcodeEasy.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -98,6 +111,11 @@
           <url>file://$PROJECT_DIR$/src/leedcodeEasy/Solution.java</url>
           <line>3</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leedcodeEasy/NumberReversal.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
