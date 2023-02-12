@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0010a3f-0c23-4ec8-ab15-40ad9ddc474e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leedcodeEasy/CountDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leedcodeEasy/LastDestination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leedcodeEasy/LastDestination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leedcodeEasy/NumberReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leedcodeEasy/NumberReversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +116,11 @@
           <url>file://$PROJECT_DIR$/src/leedcodeEasy/NumberReversal.java</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leedcodeEasy/NumberReversal.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
