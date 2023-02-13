@@ -8,7 +8,6 @@ class NumberReversal {
 if(num==j){
     return true;
 }else return false;
-
     }
 
    public static int  reverse(int number)
