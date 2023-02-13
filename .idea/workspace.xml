@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0010a3f-0c23-4ec8-ab15-40ad9ddc474e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leedcodeEasy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leedcodeEasy/DifferenceBetweenElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leedcodeEasy/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +35,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberReversal">
-    <configuration name="NumberReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leedcodeEasy.NumberReversal" />
+  <component name="RunManager" selected="Application.leedcodeEasy.NumberReversal">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leedcodeEasy.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leedcodeEasy.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leedcodeEasy.Solution" />
+    <configuration name="leedcodeEasy.NumberReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leedcodeEasy.NumberReversal" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -63,7 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberReversal" />
+        <item itemvalue="Application.leedcodeEasy.NumberReversal" />
         <item itemvalue="Application.leedcodeEasy.Solution" />
       </list>
     </recent_temporary>
